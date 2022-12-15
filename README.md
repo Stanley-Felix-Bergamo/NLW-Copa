@@ -1,11 +1,15 @@
 # NLW Copa
 
-
+<p>Calendário fictício da copa</p>
 <p>Saiba mais acessando o site <a href="https://stanley-felix-bergamo.github.io/NLW-Copa/">Clicando aki</a></p> 
+
+<div align="center" >
+<img src="https://raw.githubusercontent.com/Stanley-Felix-Bergamo/NLW-Copa/master/Assets/img/mac.png" alt="Emoji triste">
+</div>
 
 <h2>👨‍🏫 Créditos</h2>
 <p>
-Este projeto foi realizado nas aulas do Curso da <a href="https://www.rocketseat.com.br/">Rocketseat.</a>
+Este projeto foi realizado nas aulas da <a href="https://www.rocketseat.com.br/">Rocketseat.</a>
 </p>
 
 <h2>💻 Tecnologias utilizadas</h2>
